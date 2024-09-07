@@ -1,7 +1,7 @@
 ## 🙋🏻‍♀️ Introducing Myself
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/f1657550-6710-4629-a1b9-68ef9dd34f5e)        
  
-Hello, I'm Aina Jain, an Economics Master's graduate with a strong passion for data analysis and turning complex data into actionable insights. I have hands-on experience in Python, SQL, EViews, SPSS, and Excel, and I excel at statistical modeling, data visualization, and building interactive dashboards.
+Hello, I'm Aina Jain, an Economics Master's graduate with a strong passion for data analysis and turning complex data into actionable insights. Proficient in Python, SQL, EViews, SPSS, and Excel, and I excel at statistical modeling, data visualization, and building interactive dashboards.
 
 ### 🛠️ Skills
 
