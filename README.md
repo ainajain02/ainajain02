@@ -3,17 +3,21 @@
  
 Hello, I'm Aina Jain, an Economics Master's graduate with a strong passion for data analysis and turning complex data into actionable insights. Proficient in Python, SQL, EViews, SPSS, and Excel, and I excel at statistical modeling, data visualization, and building interactive dashboards.
 
-### 🛠️ Skills
+### 🛠️ Tools
 
--Python
+-Jupyter Notebook
 
--SQL
+-PostgreSql, MySql
 
 -Microsoft Power BI
 
 -IBM Cognos
 
 -Dashboards
+
+-IBM SPSS
+
+-E views
 
  ### 👋🏻 Connect with Me
  
